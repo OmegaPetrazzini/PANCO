@@ -33,10 +33,12 @@ colnames(fit_model$trainingData)[which(!colnames(fit_model$trainingData) %in% co
 Y = predict(fit_model, MYDATA, type = "prob")
 ```
 
-Details on how PANCO was built will be made available at publication - 
+Details on how PANCO was built will be made available at publication:
+
 Ben Omega Petrazzini, Fernando López-Bello, Hugo Naya, & Lucia Spangenberg. (2021). _Prediction of pathogenic variants in non-coding regions of the human genome. (under revison)._
 
-
 References:
+
 [1] Wang, K., Li, M. & Hakonarson, H. ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data. Nucleic Acids Research 38, e164-e164 (2010).
+
 [2] Petrazzini, B.O., Naya, H., Lopez-Bello, F. et al. Evaluation of different approaches for missing data imputation on features associated to genomic data. BioData Mining 14, 44 (2021). https://doi.org/10.1186/s13040-021-00274-7
