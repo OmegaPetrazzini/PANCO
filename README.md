@@ -2,8 +2,9 @@
 
 PANCO allows PAthogenicity prediction of Non-COding variants using a combination of functional and evolutionary features fitted on a Gradient Boosted Trees model.
 
-Pre-computed PANCO predictions for all possible non-coding variants in dbNSFP are available at https://doi.org/10.5281/zenodo.5745849.
+Pre-computed PANCO predictions for all possible non-coding variants in dbSNP are available at https://doi.org/10.5281/zenodo.5745849.
 
+![chromosome](https://user-images.githubusercontent.com/51827357/155600476-c86e197c-1f88-4852-8b49-419414572db2.png)
 
 To compute your own PANCO predictions please follow these instructions:
 
