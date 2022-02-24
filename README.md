@@ -4,8 +4,6 @@ PANCO allows PAthogenicity prediction of Non-COding variants using a combination
 
 Pre-computed PANCO predictions for all possible non-coding variants in dbSNP are available at https://doi.org/10.5281/zenodo.5745849.
 
-![chromosome](https://user-images.githubusercontent.com/51827357/155600476-c86e197c-1f88-4852-8b49-419414572db2.png)
-
 To compute your own PANCO predictions please follow these instructions:
 
 1) Annotated all features using ANNOVAR [1], please see https://annovar.openbioinformatics.org/en/latest/.
@@ -43,3 +41,9 @@ References:
 [1] Wang, K., Li, M. & Hakonarson, H. ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data. Nucleic Acids Research 38, e164-e164 (2010).
 
 [2] Petrazzini, B.O., Naya, H., Lopez-Bello, F. et al. Evaluation of different approaches for missing data imputation on features associated to genomic data. BioData Mining 14, 44 (2021). https://doi.org/10.1186/s13040-021-00274-7
+
+
+A detailed description of PANCO pre-computed estimates of the dbSNP will be available shortly after publication, providing genome-wide distributions of pathogenicity in the human genome (see below).
+
+![chromosome](https://user-images.githubusercontent.com/51827357/155601246-15077bdc-a38e-48c1-915b-428e2267aac2.png)
+
