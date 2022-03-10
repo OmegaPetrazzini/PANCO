@@ -43,7 +43,12 @@ References:
 [2] Petrazzini, B.O., Naya, H., Lopez-Bello, F. et al. Evaluation of different approaches for missing data imputation on features associated to genomic data. BioData Mining 14, 44 (2021). https://doi.org/10.1186/s13040-021-00274-7
 
 
-A detailed description of PANCO pre-computed estimates of the dbSNP will be available shortly after publication, providing genome-wide distributions of pathogenicity in the human genome (see below).
+A detailed description of PANCO pre-computed estimates of the dbSNP will be available shortly after publication, providing:
+
+1) Genome-wide distributions of pathogenicity in the human genome (see below).
 
 ![chromosome](https://user-images.githubusercontent.com/51827357/155601246-15077bdc-a38e-48c1-915b-428e2267aac2.png)
 
+2) Clinical interpretation for 3,644 disease-related genes from OMIM (see below).
+
+[panco_omim_vs_noomim_sinoutliers_log.pdf](https://github.com/OmegaPetrazzini/PANCO/files/8227614/panco_omim_vs_noomim_sinoutliers_log.pdf)
