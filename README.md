@@ -51,4 +51,4 @@ A detailed description of PANCO pre-computed estimates of the dbSNP will be avai
 
 2) Clinical interpretation for 3,644 disease-related genes from OMIM (see below).
 
-[panco_omim_vs_noomim_sinoutliers_log.pdf](https://github.com/OmegaPetrazzini/PANCO/files/8227614/panco_omim_vs_noomim_sinoutliers_log.pdf)
+![panco_omim_vs_noomim_sinoutliers_log](https://user-images.githubusercontent.com/51827357/157767941-99d2b442-90a5-45b1-a9ae-312e25893b2e.png)
